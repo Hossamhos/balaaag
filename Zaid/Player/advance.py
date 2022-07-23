@@ -16,7 +16,7 @@ deadlyversion = 'Spambot0.10'
 
   
 
-DEADLY = "✯ 𝐌𝐮𝐬𝐢𝐜+𝐑𝐚𝐢𝐝 𝐒𝐩𝐚𝐦 𝐁𝐨𝐭 ✯\n\n"
+DEADLY = "✯ 𝐌𝐮𝐬𝐢𝐜+Hossam 𝐁𝐨𝐭 𖥃 ✯\n\n"
 DEADLY += f"═══════════════════\n"
 DEADLY += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.1`\n"
 DEADLY += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
@@ -31,11 +31,11 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/rr8r9"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/xl444")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/H_OS_S_AM"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/SOU_LOFFY_RCE")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/muntazer995/ing")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Hossamhos/balaaag")
         ]
         ]
         )
